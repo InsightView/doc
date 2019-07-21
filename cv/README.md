@@ -10,3 +10,4 @@ awosome-cv-stackoverflow is focused on some high-reputation user's public develo
 7. https://stackoverflow.com/users/story/1749403?view=Cv
 8. https://stackoverflow.com/users/story/7432?view=Cv
 9. https://stackoverflow.com/users/story/7429447?view=Cv
+10. https://stackoverflow.com/users/story/2422776?view=Cv
