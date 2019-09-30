@@ -35,3 +35,9 @@ https://www.zhihu.com/question/48174633
     + the master node and slaver node, what the differ
 10. how you use redis
 11. Do you know Jest for nodejs tdd
+12. S3中的一些feature, 比如policy, lifecycle之类的特性
+13. IAM的一些基本概念
+14. 怎样使自己的代码减少bug
+15. typescript 和 javascript的不同和一些用法
+16. vue和react的一些基本概念
+
