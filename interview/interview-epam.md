@@ -2,6 +2,7 @@
 
 1. 二分和快排, 需要巩固一下, 二分有各种变种, 快排也有.
 2. How to use a callback module in async function
+包一层promise就可以了   
 3. How nodejs code running in V8 or C++ 
 4. the differ between docker and virtual machine
 
